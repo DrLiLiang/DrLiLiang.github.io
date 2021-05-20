@@ -5,3 +5,6 @@
 ## Introduction
 I am currently a  PhD candidate at the University of Chinese Academy of Sciences (UCAS).
 
+## Publication
+1. Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation ACL2021 Liang Li, Can Ma, Yinliang Yue, Dayong Hu
+
